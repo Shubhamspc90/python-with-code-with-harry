@@ -1,0 +1,21 @@
+Hello, my name is Shubham Chauhan.
+I am learning Python File Handling.
+This file is created using write mode.
+Python makes file operations easy.
+Welcome to File Handling Practice.
+
+
+
+
+This is a new line added using append mode.
+Python file handling is easy to learn.
+Appending data does not remove existing content.
+
+
+
+
+Name: Shubham Chauhan
+Course: MCA
+Language: Python
+Topic: File Handling
+Mode Used: Append Mode
