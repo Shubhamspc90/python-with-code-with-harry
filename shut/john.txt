@@ -1,0 +1,6 @@
+i am harry.txt file 
+
+/*
+this is john.txt file content ,but after running code that is 
+shutil.copy("harry.txt","john.txt")
+the first line replace with (i am harry.txt file )
