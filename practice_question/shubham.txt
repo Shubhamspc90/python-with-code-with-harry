@@ -1,1 +1,11 @@
-hello, i am shubham.txt file . i am appneded  in shubham.txt file  i am appneded  in shubham.txt file 
+hello, i am shubham.txt file . i am appneded  in shubham.txt file  i am appneded  in shubham.txt file .
+
+Hello, my name is Shubham.
+
+I am learning Python programming.
+Currently, I am studying file handling, os module, and shutil module.
+
+Python is a powerful and easy-to-learn programming language.
+It is used in web development, data science, artificial intelligence, automation, and many other fields.
+
+This is a sample text file for practicing file operations in Python.
